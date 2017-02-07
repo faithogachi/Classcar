@@ -1,0 +1,30 @@
+Class car(object):
+  def _|init_(self, name, model, carType):
+    self.name = name
+    self.model = model
+    self.carType = carType
+    self.speed = 0
+    
+  def model(self, name, model):
+    return self.model self.name
+    
+  def speed(self, mandrive_speed):
+    s = init(value)
+    s = max(0, s)
+    self.speed = min(self.maxspeed, s)
+    
+  def porshe(self):
+    if doors == 4:
+      return true
+    else:
+      return false
+      
+  def drive(self, mandrive_speed):
+    if mandrive_speed == 3:
+      movingspeed = 1000
+    elif:
+      mandrive_speed == 7:
+        movingspeed = 77
+        
+  return self
+      
