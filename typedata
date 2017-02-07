@@ -1,0 +1,17 @@
+def data_type(x):
+    if (type(x) == str):
+        return len(x)
+    elif: (x == 'None')
+        return "no Value"
+   if boolean data_type = true:
+      return boolean
+    if (type(x) == list[]):
+      if len(x) >= 3:
+       return x=[2]
+ def compare(x, 100):
+   if (x is 100):
+     return "equal to 100"
+   elif (x>100):
+     return "more than 100"
+   else:
+     return "less than 100"
